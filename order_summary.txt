@@ -1,0 +1,5 @@
+Business: Mobile Car Detailer
+Service: Full Detail
+Price: $50.0
+Appointment Date: 2025-05-23
+Appointment Time: 05:45 PM
